@@ -1,6 +1,10 @@
 # WealthAI - Streamlit Personal Finance Advisor
 
+![Dashboard Overview](images/1.png)
 WealthAI is a premium, lightweight, interactive dashboard built using **Streamlit** and powered by the **Google Gemini API**. It allows you to parse bank statements, visualize monthly cash flows, track savings rates, forecast future trends with machine learning, and receive personalized coaching from an AI financial advisor.
+
+
+
 
 ## Features Showcase
 1. **Interactive Dashboard**: Responsive KPI metric boards, Plotly income vs expense charts, category donut charts, and searchable transactions history.
@@ -9,7 +13,7 @@ WealthAI is a premium, lightweight, interactive dashboard built using **Streamli
 4. **PDF Report Exporter**: Download customized monthly summary reports formatted with ReportLab.
 
 ---
-
+![AI Chat & Forecasts](images/2.png)
 ## Installation & Setup
 
 1. **Verify Python is installed** (version 3.9+).
